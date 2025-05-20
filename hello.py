@@ -1,2 +1,2 @@
 with open ('output.txt, 'w') as f:
-    f.write('hello world!')
+    f.write('hello, world!')
